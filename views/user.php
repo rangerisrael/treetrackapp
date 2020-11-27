@@ -170,7 +170,7 @@ img {
 		
     margin: 0;
     padding: 0;
-    background: url(background/test.jpg);
+    background: url(background/text.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
